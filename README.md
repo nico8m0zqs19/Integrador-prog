@@ -18,3 +18,5 @@ Cinthia Rigoni
 
 Este proyecto aborda la implementación y análisis práctico de dos algoritmos clásicos en programación: el algoritmo de **ordenamiento por selección (Selection Sort)** y la **búsqueda binaria**.  
 Ambos algoritmos son desarrollados en Python, demostrando su funcionalidad y aplicación sobre listas de números.
+
+## Link del video: https://youtu.be/nsXOG539QSE
